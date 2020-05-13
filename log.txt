@@ -1,0 +1,22 @@
+May 13, 2020 10:25:43 PM com.accolite.au.ExceptionsAndLogging main
+INFO: Program starts executing...
+May 13, 2020 10:25:47 PM com.accolite.au.ExceptionsAndLogging main
+INFO: Successful user input for divide method
+May 13, 2020 10:25:47 PM com.accolite.au.ExceptionsAndLogging divide
+INFO: Divide method called
+May 13, 2020 10:25:47 PM com.accolite.au.ExceptionsAndLogging main
+SEVERE: Attempted divide by zero
+May 13, 2020 10:25:51 PM com.accolite.au.ExceptionsAndLogging main
+INFO: Successful user input for accessArray method
+May 13, 2020 10:25:51 PM com.accolite.au.ExceptionsAndLogging accessArray
+INFO: accessArray method called
+May 13, 2020 10:25:51 PM com.accolite.au.ExceptionsAndLogging main
+INFO: accessArray method executed successfully
+May 13, 2020 10:26:01 PM com.accolite.au.ExceptionsAndLogging main
+INFO: Successful user input for readFile method
+May 13, 2020 10:26:01 PM com.accolite.au.ExceptionsAndLogging readFile
+INFO: readFile method called
+May 13, 2020 10:26:01 PM com.accolite.au.ExceptionsAndLogging main
+INFO: readFile method executed successfully
+May 13, 2020 10:26:01 PM com.accolite.au.ExceptionsAndLogging main
+INFO: Program terminated...
